@@ -5,7 +5,7 @@ To create a comprehensive SQL project focused on music store data analysis, we c
     Project Overview   
 The goal of this project is to analyze data from a music store.
  
-Database and Tools  
+Database and Tools   
 - Postgre SQL  
 - PgAdmin4
 
