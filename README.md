@@ -1,9 +1,6 @@
 # SQL-Project-Music-Store-Analysis
 
 To create a comprehensive SQL project focused on music store data analysis, we can outline the project structure, including the database schema, sample queries, and analysis objectives.
-
-    Project Overview   
-The goal of this project is to analyze data from a music store.
  
 Database and Tools   
 - Postgre SQL  
